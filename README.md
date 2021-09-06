@@ -3,7 +3,7 @@ AudioTube
 </h1>
 
 <h1 align="center">
-<img src="" alt="App" height="400">
+<img src="https://raw.githubusercontent.com/CristhianFSantos/AudioTube/master/aplication.png" alt="App" height="400">
 <br>
 </h1>
 
